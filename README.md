@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
 
 [![Chasintherain's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasingtherain&theme=react)](https://github.com/chasingtherain/github-readme-stats)
 
