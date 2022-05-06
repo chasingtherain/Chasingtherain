@@ -9,3 +9,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasingtherain&langs_count=5&theme=react)](https://github.com/chasingtherain/github-readme-stats)
 
 [Codewars](https://www.codewars.com/users/chasingtherain)
+
+https://www.codewars.com/users/chasingtherain/badges/large
